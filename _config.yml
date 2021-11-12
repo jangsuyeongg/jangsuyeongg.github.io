@@ -41,6 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
+
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -63,6 +64,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           <mark>Spring MVC</mark>를 기본기술로 활용한 웹 페이지 제작하였습니다.
           DB연결은<mark>Mybatis</mark>로 <mark>ORACLE</mark>을 연결하였습니다.
+          <mark> HTML5</mark> 와 <mark> CSS3</mark> 를 사용하여 UI 를 구성하였고, <mark>JavaScript</mark>와 <mark>JQUERY</mark>를 주로 사용하여 이벤트 처리를 하였습니다. 
+          비동기 데이터 처리방식인<mark>  Ajax</mark>를 통하여 페이지를 구성하기도 하였으며, 이를 통한 자바 컨트롤러와 통신을 통해 URL과 값 전달 하였습니다.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
