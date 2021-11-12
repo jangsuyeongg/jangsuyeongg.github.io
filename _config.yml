@@ -42,6 +42,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
+
+
+
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -62,10 +65,10 @@ content:
         quote: >
           Coffee Franchise Management Web Service
         description: | # this will include new lines to allow paragraphs
-          <mark>Spring MVC</mark>를 기본기술로 활용한 웹 페이지 제작하였습니다.
-          DB연결은<mark>Mybatis</mark>로 <mark>ORACLE</mark>을 연결하였습니다.
-          <mark> HTML5</mark> 와 <mark> CSS3</mark> 를 사용하여 UI 를 구성하였고, <mark>JavaScript</mark>와 <mark>JQUERY</mark>를 주로 사용하여 이벤트 처리를 하였습니다. 
-          비동기 데이터 처리방식인<mark>  Ajax</mark>를 통하여 페이지를 구성하기도 하였으며, 이를 통한 자바 컨트롤러와 통신을 통해 URL과 값 전달 하였습니다.
+          <mark>Spring MVC</mark>를 기본기술로 활용한 웹 페이지 제작
+          DB연결은<mark>Mybatis</mark>로 <mark>ORACLE Database</mark>를 연결
+          <mark> HTML5</mark> 와 <mark> CSS3</mark> 를 사용하여 UI 를 구성하였고, <mark>JavaScript</mark>와 <mark>JQUERY</mark>를 주로 사용하여 이벤트 처리
+          비동기 데이터 처리방식인<mark>  Ajax</mark>를 통하여 페이지를 구성하여 자바 컨트롤러와 통신을 통해 URL과 값 전달
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,12 +92,26 @@ content:
         caption: 2021.0517 ~ 2021.1029
         sub_title: 디지털컨버전스 기반 융합기술을 활용한 SW웹 개발자 양성과정C (Java/Spring 풀스택 개발자 과정)
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          JAVA
+            - Implement, Abstract, Interface, Collection, I/O, Thread, Network, JDBC
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Oracle Database
+            - DML, DDL, Group by, SubQuery, DBMS Grant
 
+          Front-end
+            - HTML5, CSS, CSS3, JavaScript, JQuery, Ajax
+
+          JSP & Servlet, 
+            - Action tag, cookie, Session, Exception, 
+            - DBCP, EL, JSTL,
+            - MVC, FrontController, Command Pattern, Forwading
+
+          Spring 
+            - DI, Bean LifeCircle, AOP
+            - Controller, RequestMapping, 
+            - Mybatis, Bootstrap
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
