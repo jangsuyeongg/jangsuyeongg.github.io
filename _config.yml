@@ -77,9 +77,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: bitcamp
+        caption: 2021.0517 ~ 2021.1029
+        sub_title: 디지털컨버전스 기반 융합기술을 활용한 SW웹 개발자 양성과정C (Java/Spring 풀스택 개발자 과정)
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
