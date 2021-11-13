@@ -9,8 +9,8 @@ version: 2
 name: jang suyeong
 title: 풀스택 개발자입니다.
 email: suyeong1020@naver.com
-website: https://jangsuyeongg.github.io 
-https://www.notion.so/JAVA-SPRING-3fd9bee1a6934392bed6b1351a64a35b
+website: https://github.com/jangsuyeongg/Project
+website: https://www.notion.so/JAVA-SPRING-3fd9bee1a6934392bed6b1351a64a35b
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -73,9 +73,9 @@ content:
         quote: >
           Coffee Franchise Management Web Service
         description: | # this will include new lines to allow paragraphs
-          <mark>Spring MVC</mark>를 기본기술로 활용한 웹 페이지 제작<br/>
-          DB연결은<mark>Mybatis</mark>로 <mark>ORACLE Database</mark>를 연결<br/>
-          <mark> HTML5</mark> 와 <mark> CSS3</mark> 를 사용하여 UI 구성<br/>
+          <mark>Spring MVC</mark>를 기본기술로 활용한 웹 페이지 제작
+          DB연결은<mark>Mybatis</mark>로 <mark>ORACLE Database</mark>를 연결
+          <mark> HTML5</mark> 와 <mark> CSS3</mark> 를 사용하여 UI 구성
           <mark>JavaScript</mark>를 객체화 하여 재활용 및 함수 호출에 맞게 운용
 
   - title: Experience # Title for the section
