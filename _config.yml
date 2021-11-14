@@ -10,7 +10,6 @@ name: jang suyeong
 title: 풀스택 개발자입니다.
 email: suyeong1020@naver.com
 website: https://github.com/jangsuyeongg/Project
-website: https://www.notion.so/JAVA-SPRING-3fd9bee1a6934392bed6b1351a64a35b
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -51,9 +50,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
+
   데이터에 관심이 많아 데이터를 관리하고 활용하는 것을 좋아하는 예비 개발자입니다.<br/>
   새로운 것을 학습하고 성장하는 개발 문화에 흥미를 느껴 개발을 시작하게 되었습니다.<br/>
-  java와 database 공부를 습관화하며, 초심을 잃지 않는 개발자가 되고 싶습니다.
+  java와 database 공부를 습관화하며, 꾸준히 성장하는 개발자가 되고 싶습니다.
 
 content:
   - title: Projects # Title for the section
